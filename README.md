@@ -1,4 +1,4 @@
-# 🎯 Intelligent Weapon Detection System
+# 🎯 Intelligent Weapons + Violence + Fire + Smoke Detection System
 
 An advanced AI-powered real-time security monitoring system that combines YOLO-based object detection with multi-agent decision making for automated threat assessment and response. Features comprehensive detection capabilities including weapons, violence, fire, smoke, and suspicious activities with Firebase cloud storage integration.
 
